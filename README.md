@@ -1,0 +1,2 @@
+# UnityNativePluginMaker
+cmake
